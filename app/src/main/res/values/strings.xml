@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Here&amp;Now</string>
+    <string name="here">HERE NOW</string>
+    <string name="options">OPTIONS</string>
+    <string name="positive_focuse">POSITIVE FOCUS</string>
+    <string name="priming_sounds">PRIMING_SOUNDS</string>
+    <string name="user_manual">USER_MANUAL</string>
+    <string name="hours">HOURS</string>
+    <string name="minutes">MINUTES</string>
+    <string name="set_call_time">Select Call Time</string>
+    <string name="call_status">Call Status</string>
+    <string name="set_call">Set Call</string>
+</resources>
